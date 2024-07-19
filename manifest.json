@@ -1,0 +1,18 @@
+{
+  "manifest_version": 2,
+  "name": "Pages 404 Link",
+  "version": "1.0",
+
+  "description": "Provides a link to the GitHub Repo and Owner's Profile for a 404 GitHub Page",
+
+  "icons": {
+    "48": "icons/icon-48.png",
+  },
+
+  "content_scripts": [
+    {
+      "matches": ["*://*.github.io/*"],
+      "js": ["pages404link.js"]
+    }
+  ]
+}

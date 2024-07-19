@@ -1,9 +1,9 @@
-# Pages 404 Link
+# Pages 404
 > A Firefox Add-On (Chrome support soon!)
 
-[![get the addon](./images/GetTheAddon.png)](https://addons.mozilla.org/dontknowrightnow)
+[![get the addon](./images/GetTheAddon.png)](https://addons.mozilla.org/pages404)
 
-Get the Add-On on [Mozilla Addon's](https://addons.mozilla.org/dontknowrightnow)
+Get the Add-On on [Mozilla Addon's](https://addons.mozilla.org/pages404)
 
 ## What is this new piece of Javascript
 

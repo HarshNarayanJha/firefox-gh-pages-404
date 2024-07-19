@@ -3,7 +3,7 @@
   "name": "Pages404",
   "version": "1.0",
 
-  "description": "Provides a link to the GitHub Repo and Owner's Profile for a 404 GitHub Page",
+  "description": "Provides links to Owner's Profile and GitHub Repo on a GitHub Pages 404 page",
 
   "icons": {
     "16": "icons/icon-16.png",

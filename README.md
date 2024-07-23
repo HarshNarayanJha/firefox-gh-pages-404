@@ -19,3 +19,10 @@ It provides two links on the page, one for the user's GitHub profile, and other 
 ![404-pages-link](./images/pages-404-link.png)
 
 You can still do that manually, but I created this add-on to aid myself, and it may help you too!
+
+## For Google Chrome (and other chromium based browsers)
+For now you have to manually download the extension manually (use git clone or download as zip), unzip it to some safe place,
+go to `chrome://extensions`, enable developer mode and click `Load Unpacked` and select the folder to which you extracted the extension.
+
+You need to repeat these steps manually for each release, since Google now disallows installation of local `.crx` files _directly_ to _protect_
+the users.
